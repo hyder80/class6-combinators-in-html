@@ -1,0 +1,38 @@
+.fisrt-div {
+    font-size:  30px;
+    color: aquamarine;
+    background: rgb(179, 161, 161);
+}
+.first-div p{
+    font-size: 50;
+    color: blueviolet;
+    background-color: rgb(169, 192, 175);
+    border: rgb(187, 177, 176);
+    text-decoration: underline;
+
+}
+.second-div > p{
+    font-size: 20px;
+    color: burlywood;
+    text-decoration: dotted;
+
+}   
+.first-div + p{
+    font-size: x-large;
+    color: chartreuse;
+    text-decoration: dotted;
+
+}   
+.second-div ~ p{
+    font-size: 32px;
+    color: bisque;
+    text-shadow: chartreuse;
+    
+}   
+.third-div{
+    background-color: crimson;
+    color: cyan;
+}               
+.fourth-div{
+    background-color: darkblue;
+}      
